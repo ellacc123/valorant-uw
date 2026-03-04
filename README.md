@@ -1,70 +1,58 @@
-# Getting Started with Create React App
+# Valorant @ UW
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<table>
+  <tr>
+    <td width="55%">
+      <img src="https://cdn.sanity.io/images/q5clh35z/production/8ab301daddc23265d32113ce3bf426b27f4b2d72-2938x1444.png?fit=max&auto=format" alt="Valorant @ UW website screenshot" width="100%"/>
+    </td>
+    <td width="45%">
+      <h3>The official website for UW's Valorant RSO</h3>
+      <p>Built in collaboration with <a href="https://webimpactuw.org">Web Impact UW</a>, a student org that creates free websites for groups at the University of Washington.</p>
+      <p><strong>→</strong> <a href="https://webimpactuw.github.io/valorant-uw/">View the live site</a></p>
+    </td>
+  </tr>
+</table>
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## About
 
-### `npm start`
+Valorant @ UW is a Registered Student Organization at the University of Washington dedicated to VALORANT by Riot Games. This website serves as the club's online hub — connecting members, sharing events, and growing the UW Valorant community.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Getting Started
 
-### `npm test`
+```bash
+# Clone the repo
+git clone https://github.com/webimpactuw/valorant-uw.git
+cd valorant-uw
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# Install dependencies
+npm install
 
-### `npm run build`
+# Start development server
+npm start
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Then open [http://localhost:3000](http://localhost:3000) to view it in your browser. The page will hot-reload as you make edits.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Tech Stack
 
-### `npm run eject`
+**Framework:** React (bootstrapped with Create React App)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+**Deployment:** GitHub Pages
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Team
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Built with 💜 by [Web Impact UW](https://webimpactuw.org)
 
-## Learn More
+**Lead:** Madeline Clinton
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+**Development:** Kevin Nguyen · Alexander Knotwell · Celestine Buendia · Ella Cao
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+**Design:** Varun Hariharan · Henry Pontzer · Isabelle Henderson · Elden Martial · Nathan Do
