@@ -6,8 +6,6 @@
       <img src="https://cdn.sanity.io/images/q5clh35z/production/8ab301daddc23265d32113ce3bf426b27f4b2d72-2938x1444.png?fit=max&auto=format" alt="Valorant @ UW website screenshot" width="100%"/>
     </td>
     <td width="45%">
-      <h3>The official website for UW's Valorant RSO</h3>
-      <p>Built in collaboration with <a href="https://webimpactuw.org">Web Impact UW</a>, a student org that creates free websites for groups at the University of Washington.</p>
       <p><strong>→</strong> <a href="https://webimpactuw.github.io/valorant-uw/">View the live site</a></p>
     </td>
   </tr>
