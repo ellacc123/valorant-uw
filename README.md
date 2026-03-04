@@ -43,16 +43,4 @@ Then open [http://localhost:3000](http://localhost:3000) to view it in your brow
 
 **Framework:** React (bootstrapped with Create React App)
 
-**Deployment:** GitHub Pages
-
----
-
-## Team
-
-Built with 💜 by [Web Impact UW](https://webimpactuw.org)
-
-**Lead:** Madeline Clinton
-
-**Development:** Kevin Nguyen · Alexander Knotwell · Celestine Buendia · Ella Cao
-
-**Design:** Varun Hariharan · Henry Pontzer · Isabelle Henderson · Elden Martial · Nathan Do
+**Deployment:** Vercel
