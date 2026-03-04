@@ -15,7 +15,7 @@
 
 ## About
 
-Valorant @ UW is a Registered Student Organization at the University of Washington dedicated to VALORANT by Riot Games. This website serves as the club's online hub — connecting members, sharing events, and growing the UW Valorant community.
+Valorant @ UW is a Registered Student Organization at the University of Washington. This website serves the 300+ members of club, by acting as an online hub, connecting members, sharing events, and growing the UW Valorant community.
 
 ---
 
