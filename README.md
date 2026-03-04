@@ -3,7 +3,7 @@
 <img
   src="https://cdn.sanity.io/images/q5clh35z/production/8ab301daddc23265d32113ce3bf426b27f4b2d72-2938x1444.png?fit=max&auto=format"
   alt="Valorant @ UW website screenshot"
-  style="width: 100%; height: auto;"
+  style="width: 60%; height: auto;"
 />
 
 <p><strong>→</strong> <a href="https://webimpactuw.github.io/valorant-uw/">View the live site</a></p>
