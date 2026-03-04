@@ -30,7 +30,7 @@ npm install
 npm start
 ```
 
-Then open [http://localhost:3000](http://localhost:3000) to view it in your browser. The page will hot-reload as you make edits.
+Then open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ---
 
